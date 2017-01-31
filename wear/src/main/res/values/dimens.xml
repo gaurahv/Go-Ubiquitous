@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="digital_text_size">40dp</dimen>
-    <dimen name="digital_text_size_round">45dp</dimen>
-    <dimen name="digital_text_size_temperature">35dp</dimen>
-    <dimen name="digital_text_size_round_temperature">40dp</dimen>
+    <dimen name="digital_text_size">35dp</dimen>
+    <dimen name="digital_text_size_round">35dp</dimen>
+    <dimen name="digital_text_size_temperature">30dp</dimen>
+    <dimen name="digital_text_size_round_temperature">30dp</dimen>
     <dimen name="digital_date_text_size">20dp</dimen>
     <dimen name="digital_am_pm_size">25dp</dimen>
     <dimen name="digital_am_pm_size_round">30dp</dimen>
